@@ -55,3 +55,5 @@ vFinal
   Funktion zur Bereinigung der fehlenden "Birthday"-Daten
 
   Bugfixes in Stream-Lit-App
+
+  requirements.txt added
