@@ -315,10 +315,6 @@ def descriptive_analysis(data, data_name):
     st.write(data.describe())
 
 # Funktion zur Durchführung einer explorativen Analyse
-import matplotlib.pyplot as plt
-import seaborn as sns
-import streamlit as st
-
 def exploratory_analysis(data, chart_type, fixed_x_var, var_choice_y):
     st.subheader("Explorative Analyse")
     
